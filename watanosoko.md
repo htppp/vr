@@ -1,14 +1,19 @@
 # わたのそこ
 
 自作ワールド第1段。  
+ホームワールドにできる屋外チルワ予定。  
 <https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c>
 
-Googleのスライドで資料作成した。  
+Googleスライドで簡単な資料作成した。  
 <https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
 
 
+
+
 ## 作業進捗
-日付は寝るまでがその日扱いされるHST(Hatopoppo Standard Time)基準。
+
+以降は日記に近い作業進捗状況。  
+日付は寝るまでがその日扱いされるHST(Hato poppo Standard Time)基準。  
 
 <details><summary>1~5日目 ワールド作成方法学習 (折りたたみ)</summary>
 
