@@ -10,7 +10,7 @@ Googleのスライドで資料作成した。
 ## 作業進捗
 日付は寝るまでがその日扱いされるHST(Hatopoppo Standard Time)基準。
 
-<details><summary>長いので折りたたみ</summary>
+<details><summary>1~5日目 ワールド作成方法学習 (折りたたみ)</summary>
 
 ### 2025/11/12 
 
@@ -72,6 +72,11 @@ SFVのバージョンが古く、そのまま置いてもダメで調整が必�
 
 いっぱい並べてみた。  
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/ab1e991e-f930-4cc9-b48d-9f0456f0f218" />
+
+
+</details>
+
+<details><summary>6~10日目 「わたのそこ」作成開始 (折りたたみ)</summary>
 
 
 ### 2025/11/17
@@ -145,7 +150,7 @@ Built-inな使えそうなやつでもレビューを見るとダメとか問題
 とりあえず雰囲気は良さげっぽい状態になっているので公開。  
 <https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c>
 
-スライド資料作成。
+スライド資料作成。  
 <https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
 
 ### 2025/11/25
