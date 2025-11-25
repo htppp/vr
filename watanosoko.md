@@ -114,7 +114,6 @@ Built-inな使えそうなやつでもレビューを見るとダメとか問題
 
 <img height="300" src="https://github.com/user-attachments/assets/4abacbd2-516a-4376-b0ad-221957eb31a0" />
 
-
 ### 2025/11/21
 
 明日から大阪に旅行?に行くので準備があり作業なし。  
@@ -141,10 +140,26 @@ Built-inな使えそうなやつでもレビューを見るとダメとか問題
 
 <a href="https://bandaiurusi.booth.pm/items/3181143"><img height="300" src="https://booth.pximg.net/857db5aa-d8d7-411f-b08b-7905bb1525d0/i/3181143/0bdb065f-c7c0-4678-a4bd-9c6b663b89cd_base_resized.jpg" /></a>
 
-
 ### 2025/11/24
 
 8日目。
+勤労感謝の日でお休みだが、旅行でしこたま歩いたせいで筋肉痛\_(:3 」∠ )\_  
+
+今までRTX2080Tiを使用していたが、そろそろ寿命なのでRX7900XTXを購入していたのが届いたので換装した。
+グラボの換装なのでOSをクリーンインストールした。
+バックアップ、OSインストールメディア作成、分解清掃、BIOS更新、OSクリーンインストール、ドライバインストール等の後に、
+Unityのインストール等もあり、なんだかんだ5時間くらいかかった\_(;3 」∠ )\_
+
+[VRMark v2](https://vrchat.com/home/world/wrld_f71988d7-11b9-46fe-b8e8-3bbc4a59bb2a) でチェック。  
+
+なぜかCPUが下がっているが、まあまあ向上した\_(:3 」∠ )\_
+
+<img height="300" src="https://github.com/user-attachments/assets/8425527a-850e-41f3-8318-df0cc6b7b6b8" />
+<br/>
+<img height="300" src="https://github.com/user-attachments/assets/171ac629-d799-404e-bc6d-6f73fba5e703" />
+
+ワールド作成つづき。
+
 とりあえず水面シェーダーに [Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) を採用。  
 無料で使用できるシェーダーとしては最も高品質に感じた。  
 
