@@ -10,7 +10,7 @@ Googleのスライドで資料作成した。
 ## 作業進捗
 日付は寝るまでがその日扱いされるHST(Hatopoppo Standard Time)基準。
 
-<details><summary>折りたたみ</summary>
+<details><summary>長いので折りたたみ</summary>
 
 ### 2025/11/12 
 
@@ -29,6 +29,7 @@ Googleのスライドで資料作成した。
 
 ### 2025/11/13
 
+2日目。
 Boothで [QvPen](https://booth.pm/ja/items/1555789?srsltid=AfmBOop-3xQCRdY-Y6sTgw7szH3pfV8xkb_4aAbHI0-TD1t9mHTgaobv) と [YamaPlayer](https://booth.pm/ja/items/4768863?srsltid=AfmBOoqMgyZQC_FKSIWsiUOd9ZW771pUCG9YB5KUOU7T5_6qHHwP1ee4) などを探してきて配置した。
 テクスチャの張り方を学んだ。
 
@@ -38,7 +39,12 @@ Boothで [QvPen](https://booth.pm/ja/items/1555789?srsltid=AfmBOop-3xQCRdY-Y6sTg
 
 ### 2025/11/14
 
-飛行機置いてみた。SFV(Sacc's Flight And Viecle)置くと飛べるようになって便利_\(:3 」∠ )\_  
+3日目。
+F-15J風の戦闘機 [HF-15](https://hashibami-hi.booth.pm/items/7620959) を買ってみた。  
+<https://x.com/hato_poppo_life/status/1989293511058108525>  
+
+なのでそのまま置いてみた。  
+SFV(Sacc's Flight And Viecle)置くと飛べるようになって便利_\(:3 」∠ )\_  
 
 飛行機楽しい\_(:3 」∠ )\_
 
@@ -48,11 +54,105 @@ Boothで [QvPen](https://booth.pm/ja/items/1555789?srsltid=AfmBOop-3xQCRdY-Y6sTg
 
 ### 2025/11/15
 
-とりあえず試験島として公開してみた\_(:3 」∠ )\_
-<img width="1287" height="724" alt="image" src="https://github.com/user-attachments/assets/f1ed6009-dfb1-4e0a-8dd1-22d2a66f63e7" />
+4日目。
+とりあえず試験島として公開してみた\_(:3 」∠ )\_  
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/f1ed6009-dfb1-4e0a-8dd1-22d2a66f63e7" />
 
-ワールドの公開方法を学んだ。
+ワールドの公開方法を学んだ。  
 <https://vrchat.com/home/world/wrld_71aa631f-96f4-4ea8-b446-d24306bf31d6>
+
+### 2025/11/16
+
+5日目。
+[F22]() を買ってみたので置いてみようとした\_(:3 」∠ )\_  
+SFVのバージョンが古く、そのまま置いてもダメで調整が必要で難易度高かった\_(:3 」∠ )\_
+
+めちゃ弄ってなんとか\_(:3 」∠ )\_  
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/6f607179-2ab3-4506-98c9-36337b0d00d2" />
+
+いっぱい並べてみた。  
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/ab1e991e-f930-4cc9-b48d-9f0456f0f218" />
+
+
+### 2025/11/17
+
+長時間残業の為作業なし\_(;3 」∠ )\_
+
+### 2025/11/18
+
+6日目。
+試験島で試したいことは試せたので、いよいよ「わたのそこ」の作成に入る。  
+まずは海面の表現のためのシェーダーを漁る。  
+無料のものをチェック。  
+有料のものは結構な値段する上にVRChatで使えるのかよくわからないことが多い。  
+Built-inな使えそうなやつでもレビューを見るとダメとか問題があるが作者から返信がないなどの投稿がある。  
+とりあえず海面に太陽光が反射して光の道みたいに見える感じにはなった。ほっそい\_(:3 」∠ )\_  
+
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/0e0f2c33-6c91-4d45-b530-6b013c2b43b6" />
+
+### 2025/11/19
+
+長時間残業の為作業なし\_(;3 」∠ )\_
+
+### 2025/11/20
+
+7日目。
+色々な水面シェーダーを試してみた。  
+なかなかむずかしい\_(:3 」∠ )\_  
+
+<img width="1287" height="724" alt="image" src="https://github.com/user-attachments/assets/9674ede3-f589-40bd-a9c5-2eb980e76246" />
+
+<img width="1287" height="905" alt="image" src="https://github.com/user-attachments/assets/4abacbd2-516a-4376-b0ad-221957eb31a0" />
+
+
+### 2025/11/21
+
+明日から大阪に旅行?に行くので準備があり作業なし。  
+<img height="300" src="https://github.com/user-attachments/assets/883c4c14-7271-425b-8fa0-9bd1c33417c1" />
+
+### 2025/11/22
+
+大阪1日目。カニおいしい\_(:3 」∠ )\_
+
+<img height="300" src="https://github.com/user-attachments/assets/fdc29e81-b204-49bc-9a00-c321a1647774" />
+<br/>
+<img height="300" src="https://github.com/user-attachments/assets/72d8f461-3292-4735-9dae-b66349016eab" />
+
+### 2025/11/23
+
+大阪2日目。城おっきい\_(:3 」∠ )\_
+
+<img height="300" src="https://github.com/user-attachments/assets/ec8566eb-e465-4ac8-8747-f04d33b7364d" />
+<br/>
+<img height="300" src="https://github.com/user-attachments/assets/d71fb39b-a80a-46e7-92c9-8cfb9e4202a8" />
+
+たこ焼きは写真撮り忘れました\_(;3 」∠ )\_  
+とりあえずBoothでたこ焼き見つけたので買ってみました\_(:3 」∠ )\_
+
+<a href="https://bandaiurusi.booth.pm/items/3181143"><img height="300" src="https://booth.pximg.net/857db5aa-d8d7-411f-b08b-7905bb1525d0/i/3181143/0bdb065f-c7c0-4678-a4bd-9c6b663b89cd_base_resized.jpg" /></a>
+
+
+### 2025/11/24
+
+8日目。
+とりあえず水面シェーダーに [Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) を採用。  
+無料で使用できるシェーダーとしては最も高品質に感じた。  
+
+空のskyboxをいい感じにしたい。
+とりあえず Virtual Celestial Renderer という星空シェーダーを採用した。  
+<a href="https://bekosan.booth.pm/items/6133882"><img height="300" src="https://booth.pximg.net/25095b0d-dca9-4bcd-8ed0-2da2c4de03e7/i/6133882/dd969d7b-b231-49af-9906-3de1bc03f2ae_base_resized.jpg" /></a>
+
+とりあえず雰囲気は良さげっぽい状態になっているので公開。  
+<https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c>
+
+スライド資料作成。
+<https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
+
+### 2025/11/25
+
+
+
+
 
 
 
