@@ -158,7 +158,15 @@ Unityのインストール等もあり、なんだかんだ5時間くらいか�
 <br/>
 <img height="300" src="https://github.com/user-attachments/assets/171ac629-d799-404e-bc6d-6f73fba5e703" />
 
-ワールド作成つづき。
+他のベンチマークも回してみた。良さげ。
+
+<img height="300" src="https://github.com/user-attachments/assets/492782eb-eb08-4603-b75e-7d9d9fe0a19c" />
+<br/>
+<img height="300" src="https://github.com/user-attachments/assets/7b0ca588-deae-43a4-92c1-f3aa5095f2e8" />
+
+
+
+そして、ワールド作成つづき。
 
 とりあえず水面シェーダーに [Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) を採用。  
 無料で使用できるシェーダーとしては最も高品質に感じた。  
