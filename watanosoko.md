@@ -1,18 +1,16 @@
 # わたのそこ
 
-自作ワールド第1段目予定。
+自作ワールド第1段。  
+<https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c>
 
-https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c/info
-
-
-Googleのスライドで資料作成した。
-
+Googleのスライドで資料作成した。  
 <https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
-
 
 
 ## 作業進捗
 日付は寝るまでがその日扱いされるHST(Hatopoppo Standard Time)基準。
+
+<details><summary>折りたたみ</summary>
 
 ### 2025/11/12 
 
@@ -42,7 +40,26 @@ Boothで [QvPen](https://booth.pm/ja/items/1555789?srsltid=AfmBOop-3xQCRdY-Y6sTg
 
 飛行機置いてみた。SFV(Sacc's Flight And Viecle)置くと飛べるようになって便利_\(:3 」∠ )\_  
 
+飛行機楽しい\_(:3 」∠ )\_
+
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/76f85eb9-2941-4403-91b8-8c42d8167253" />
 <br/>
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/57af2758-7a47-4971-9e6e-dbfcad45a4e4" />
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/57af2758-7a47-4971-9e6e-dbfcad45a4e4" />
 
+### 2025/11/15
+
+とりあえず試験島として公開してみた\_(:3 」∠ )\_
+<img width="1287" height="724" alt="image" src="https://github.com/user-attachments/assets/f1ed6009-dfb1-4e0a-8dd1-22d2a66f63e7" />
+
+ワールドの公開方法を学んだ。
+<https://vrchat.com/home/world/wrld_71aa631f-96f4-4ea8-b446-d24306bf31d6>
+
+
+
+
+
+
+
+
+
+</details>
