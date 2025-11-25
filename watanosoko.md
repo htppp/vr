@@ -105,9 +105,9 @@ Built-inな使えそうなやつでもレビューを見るとダメとか問題
 色々な水面シェーダーを試してみた。  
 なかなかむずかしい\_(:3 」∠ )\_  
 
-<img width="1287" height="724" alt="image" src="https://github.com/user-attachments/assets/9674ede3-f589-40bd-a9c5-2eb980e76246" />
+<img height="300" src="https://github.com/user-attachments/assets/9674ede3-f589-40bd-a9c5-2eb980e76246" />
 
-<img width="1287" height="905" alt="image" src="https://github.com/user-attachments/assets/4abacbd2-516a-4376-b0ad-221957eb31a0" />
+<img height="300" src="https://github.com/user-attachments/assets/4abacbd2-516a-4376-b0ad-221957eb31a0" />
 
 
 ### 2025/11/21
