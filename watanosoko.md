@@ -2,6 +2,13 @@
 
 自作ワールド第1段目予定。
 
+
+Googleのスライドで資料作成した。
+
+<https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
+
+
+
 作業進捗。
 
 ## 2025/11/12 
