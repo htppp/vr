@@ -1,6 +1,6 @@
 # はとぽの自己紹介ページ
 
-<img height="300" src="https://github.com/user-attachments/assets/9b44865e-e0b1-4d08-8f49-0365098ce54d" />
+<img height="300" src="https://github.com/user-attachments/assets/de0ec2cd-5b82-4e91-a035-5c2c269e3d37" />
 
 ## 作ったワールド一覧
 
