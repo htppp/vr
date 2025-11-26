@@ -1,14 +1,20 @@
-# はとぽ
+# はとぽの自己紹介ページ
 
-![](https://private-user-images.githubusercontent.com/39856549/513657489-7ab535b7-2046-4029-ae92-1397ac9dd9d5.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwMDYyNzIsIm5iZiI6MTc2MzAwNTk3MiwicGF0aCI6Ii8zOTg1NjU0OS81MTM2NTc0ODktN2FiNTM1YjctMjA0Ni00MDI5LWFlOTItMTM5N2FjOWRkOWQ1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDAzNTI1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxNTZiNmMwMGMwNDVjMGY1ZGY3YjI3MWI3YTE5OWRlYTgyOTAwNWQ2ZTY2OWQ0ODYzZGRjYmYyYWE2YjE2YmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GAXsyElLKbyYkS4VaIluL8WwDCV4JWH27CQF8ZBMMDg)
+<img height="300" src="https://github.com/user-attachments/assets/9b44865e-e0b1-4d08-8f49-0365098ce54d" />
 
+## 作ったワールド一覧
 
-## ワールド
+- [わたのそこ](https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c)
+  - 屋外型チルワ(予定)。
+  - 作成資料: <https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
+  - 作業履歴: <https://github.com/htppp/vr/blob/master/watanosoko.md>
 
-[わたのそこ](https://github.com/htppp/vr/blob/master/watanosoko.md)
+- [はとぽ島](https://vrchat.com/home/world/wrld_71aa631f-96f4-4ea8-b446-d24306bf31d6)
+  - 初めてのワールド作成のお試しワールド。Boothのギミックなどを置いてみてチェックする目的で作成。
 
-## リンク
+## その他リンク
 
-- [VRChat](https://vrchat.com/home/user/usr_dc4f8eca-e074-443a-b271-21ef533c9c3e)
+- [VRChatプロフィールページ](https://vrchat.com/home/user/usr_dc4f8eca-e074-443a-b271-21ef533c9c3e)
+  - [モバイル版の見た目チェック用VRChatアカウント](https://vrchat.com/home/user/usr_6c0ac1e4-eb86-441f-a1d7-3261391933de)
 - [Twitter](https://twitter.com/hato_poppo_life)
 - [FFXIV](https://jp.finalfantasyxiv.com/lodestone/character/20422388/)
