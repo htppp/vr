@@ -11,8 +11,17 @@ Googleスライドで簡単な資料作成した。
 
 下記のイメージ画像はChatGPT or Geminiに作ってもらっている。
 
-### メインの部分
-<img height="1000" src="https://github.com/user-attachments/assets/220d8da2-c82e-40b1-a80f-95e4223fcd50" />
+### メインの明るめのエリア
+
+夕焼け(or 朝焼け)のイメージ。
+
+<img height="800" src="https://github.com/user-attachments/assets/32f4195a-a53b-474d-8551-d4d15a810396" />
+
+### サブの暗いエリア
+
+砂丘の稜線で太陽光が遮られて暗くなる想定。
+
+<img height="800" src="https://github.com/user-attachments/assets/220d8da2-c82e-40b1-a80f-95e4223fcd50" />
 
 ## 作業進捗
 
