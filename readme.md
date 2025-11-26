@@ -5,9 +5,11 @@
 ## 作ったワールド一覧
 
 - [わたのそこ](https://vrchat.com/home/world/wrld_b296a7a1-e8bb-42b5-8701-d96ebe58895c)
-  - 屋外型チルワ(予定)。
-  - 作成資料: <https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
-  - 作業履歴: <https://github.com/htppp/vr/blob/master/watanosoko.md>
+  - 広々として落ち着ける屋外チルワールド(予定)。
+    - 夕焼けに照らされたメインエリアと、真っ暗な夜のサブエリア、おまけ要素を実装(予定)。
+    - 焚火やテント、QvPen、動画プレイヤーなどを配置(予定)。
+  - [資料 (Googleスライド)](https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing): コメント書けます。
+  - [作業履歴](https://github.com/htppp/vr/blob/master/watanosoko.md): 日記に近い状態に。
 
 - [はとぽ島](https://vrchat.com/home/world/wrld_71aa631f-96f4-4ea8-b446-d24306bf31d6)
   - 初めてのワールド作成のお試しワールド。Boothのギミックなどを置いてみてチェックする目的で作成。
