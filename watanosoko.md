@@ -12,7 +12,7 @@ Googleスライドで簡単な資料作成した。
 下記のイメージ画像はChatGPT or Geminiに作ってもらっている。
 
 ### メインの部分
-<img height="1000" src="https://github.com/user-attachments/assets/836b23a8-5e80-4770-b6b3-4df9031f1aae" />
+<img height="1000" src="https://github.com/user-attachments/assets/220d8da2-c82e-40b1-a80f-95e4223fcd50" />
 
 ## 作業進捗
 
