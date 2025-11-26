@@ -1,4 +1,4 @@
-# わたのそこ
+<img width="1536" height="1024" alt="c_02" src="https://github.com/user-attachments/assets/9d3efadd-367b-43cf-843f-0160ada44a92" /># わたのそこ
 
 自作ワールド第1段。  
 ホームワールドにできる屋外チルワ予定。  
@@ -8,7 +8,12 @@ Googleスライドで簡単な資料作成した。
 <https://docs.google.com/presentation/d/1yCLQ0LYvr7jxvJgEFpF5cKILg--RjWX9crZUeryNGHk/edit?usp=sharing>
 
 
+## イメージ。
 
+下記のイメージ画像はChatGPT or Geminiに作ってもらっている。
+
+### メインの部分
+<img height="1000" src="https://github.com/user-attachments/assets/836b23a8-5e80-4770-b6b3-4df9031f1aae" />
 
 ## 作業進捗
 
